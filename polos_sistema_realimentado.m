@@ -16,7 +16,7 @@ step(Myr2,t);
 hold on;
 
 
-legend('Caso 1 de funcion L(S) (14,5 <Kp1 < 100).','Caso 2 de la función L(S) (Kp2 = 4,46 a infinito).')
+legend('Caso 1 de funcion L(S) 14,5 <Kp1 < 100.','Caso 2 de la función L(S) Kp2 ]4,46 a infinito[.')
 
 figure;
 
@@ -25,4 +25,4 @@ pzmap(Myr1);
 hold on;
 pzmap(Myr2);
 
-legend('Caso 1 de funcion L(S) (14,5 <Kp1 < 100).','Caso 2 de la función L(S) (Kp2 = 4,46 a infinito).')
+legend('Caso 1 de funcion L(S) 14,5 <Kp1 < 100.','Caso 2 de la función L(S) Kp2  ]4,41 a infinito[.')

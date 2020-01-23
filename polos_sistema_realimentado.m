@@ -15,7 +15,7 @@ Myr2 = Ls2/(1+Ls2);
 step(Myr2,t);
 hold on;
 
-legend('Caso 1 de funcion L(S) Kp1 67.51 < Kp1 < 163.56.','Caso 2 de la función L(S) 14,5 <Kp2 < 100.')
+legend('Caso 1 de funcion L(S) 67.51 < Kp1 < 163.56.','Caso 2 de la función L(S) 14,5 <Kp2 < 100.')
 
 figure;
 
@@ -24,4 +24,4 @@ pzmap(Myr1);
 hold on;
 pzmap(Myr2);
 
-legend('Caso 1 de funcion L(S) Kp1 67.51 < Kp1 < 163.56.','Caso 2 de la función L(S) 14,5 <Kp2 < 100.')
+legend('Caso 1 de funcion L(S) 67.51 < Kp1 < 163.56.','Caso 2 de la función L(S) 14,5 <Kp2 < 100.')

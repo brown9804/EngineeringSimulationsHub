@@ -2,8 +2,8 @@
 %% utilizando el polinomio característico
 s = tf('s'); % Definición de variable compleja.
 t = (0:1:60); % Definición de intervalo de tiempo.
-%% Caso 1 de funcion L(S) (Kp1 = 4,41 a infinito).
-kp1 = 10;
+%% Caso 1 de funcion L(S) 67.51 < Kp1 < 163.56
+kp1 = 80;
 Ls1 = kp1*(s^2 +2*s+4)/s*(s^2 +1.4*s+1)*(s+4)*(s+6);
 Myr1 =Ls1/(1+Ls1);
 step(Myr1,t);

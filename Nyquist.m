@@ -1,10 +1,10 @@
 clc
 %Este código sirve para revisar los diagramas de nyquist, recordar que el
-%diagrama de nyqyist utiliza los polos de lazo abierto y nos da información
-%de los polos de lazo cerrado mendiate el diadrama recordandoq que la
-%formula es Zd = N + Pd donde N es el numero de encierros en -1 y recurede
-%que tiene sentidos si es horario es ositivo si es antihorario es negativo
-%y pd es la cantidad de polos que se ve desde L(s) que se enucnetran en el
+%diagrama de nyquist utiliza los polos de lazo abierto y nos da información
+%de los polos de lazo cerrado mendiante el diadrama recordandoq que la
+%formula es Zd = N + Pd donde N es el numero de encierros en -1 y recuerde
+%que tiene sentidos si es horario es positivo si es antihorario es negativo
+%y pd es la cantidad de polos que se ve desde L(s) que se encuentran en el
 %el eje derecho y eso nos da los polos de lazo cerrado en el el eje derecho
 
 clear

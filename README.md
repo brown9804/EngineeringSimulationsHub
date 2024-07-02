@@ -1,4 +1,4 @@
-# Electrical Engineering Designs & Simulations Hub
+# Engineering Simulations Hub
 
 Costa Rica
 

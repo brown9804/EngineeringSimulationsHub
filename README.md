@@ -21,4 +21,4 @@ This repository hosts a variety of simulations. Each simulation is contained in 
 6. `matlab` [Rocket Launch Analysis](./6_RocketLaunchAnalysis/): This simulation provides a comprehensive analysis of rocket launches, helping you understand the dynamics and physics involved in space exploration.
 7. `matlab` [Magnetic Levitation Control System](./7_MagneticLevitationControlSystem/): This simulation provides a detailed analysis of magnetic levitation control systems, aiding in the understanding and design of such systems.
 8. `matlab` [Pump Flow Optimizer](./8_PumpFlowOptimizer/): This simulation provides a tool for optimizing pump flow in various systems, helping you achieve efficient and effective fluid transportation.
-
+9. `matlab` [Residential Electrical Load Analysis - CR](./9_ResidentialLoadAnalysis-CR/): Design of an electrical load survey in a residential and outputs obtained for Costa Rica.

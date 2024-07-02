@@ -9,7 +9,7 @@ Belinda Brown, belindabrownr04@gmail.com
 
 ----------
 
-This repository hosts a variety of simulations. Each simulation is contained in its own directory. Here's a brief overview of each simulation:
+This repository hosts a variety of simulations. Each simulation is contained in its own directory. Here's a brief overview of each simulation
 
 ## Content
 

@@ -23,3 +23,4 @@ This repository hosts a variety of simulations, and designs. Each simulation/des
 8. `matlab` [Pump Flow Optimizer](./8_PumpFlowOptimizer/): This simulation provides a tool for optimizing pump flow in various systems, helping you achieve efficient and effective fluid transportation.
 9. `matlab` [Residential Electrical Load Analysis - CR](./9_ResidentialLoadAnalysis-CR/): Design of an electrical load survey in a residential and outputs obtained for Costa Rica.
 10. `C++` [3D LED Volume Unit Meter](./10_3DLedVUmeter/): 3x3x3 LED cube to the rhythm of the music using transistors and an Arduino Uno.
+11. `TSC - tina` [Filter Design using Operational Amplifiers in TINA](./11_FilterDesignWithOpAmpsInTINA/): This project contains a filter design with a specific transfer function, created using TINA Design Suite.

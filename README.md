@@ -24,6 +24,6 @@ This repository hosts a variety of simulations, and designs. Each simulation/des
 9. `matlab` [Residential Electrical Load Analysis - CR](./9_ResidentialLoadAnalysis-CR/): Design of an electrical load survey in a residential and outputs obtained for Costa Rica.
 10. `C++` [3D LED Volume Unit Meter](./10_3DLedVUmeter/): 3x3x3 LED cube to the rhythm of the music using transistors and an Arduino Uno.
 11. `TSC - tina` [Filter Design using Operational Amplifiers in TINA](./11_FilterDesignWithOpAmpsInTINA/): This project contains a filter design with a specific transfer function, created using TINA Design Suite.
-12. `multisim14 NI` [# Motor Controller for a Claw Using Deformations as Parameters](./12_ClawMotorController/): This project is about designing a circuit to control the motor of a claw based on deformations in a specific area.
+12. `multisim14 NI` [Motor Controller for a Claw Using Deformations as Parameters](./12_ClawMotorController/): This project is about designing a circuit to control the motor of a claw based on deformations in a specific area.
 13. `TSC - tina` [Electrical Flow and Voltage Project Thevenin](./13_TheveninTinaSimulations/) : This project contains designs that demonstrate how voltage and electrical flow work according to Thevenin's theorem.
 14. `matlab` [JFET Type N Design Project](./14_JFET-NDesign/): This project contains a design of a JFET (Junction Field-Effect Transistor) Type N, demonstrating its characteristics and behavior.

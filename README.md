@@ -27,3 +27,4 @@ This repository hosts a variety of simulations, and designs. Each simulation/des
 12. `multisim14 NI` [Motor Controller for a Claw Using Deformations as Parameters](./12_ClawMotorController/): This project is about designing a circuit to control the motor of a claw based on deformations in a specific area.
 13. `TSC - tina` [Electrical Flow and Voltage Project Thevenin](./13_TheveninTinaSimulations/) : This project contains designs that demonstrate how voltage and electrical flow work according to Thevenin's theorem.
 14. `matlab` [JFET Type N Design Project](./14_JFET-NDesign/): This project contains a design of a JFET (Junction Field-Effect Transistor) Type N, demonstrating its characteristics and behavior.
+15. `matlab` [Simple AC to DC Converter Design](./15_AC-DC_DesignSimulation/): This project contains a design for a simple Alternating Current (AC) to Direct Current (DC) converter.

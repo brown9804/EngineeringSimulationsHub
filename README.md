@@ -9,12 +9,7 @@ Last updated: 2020-04-14
 
 ------------------------------------------
 
-<div align="center">
-  <h3 style="color: #4CAF50;">Total Visitors</h3>
-  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
-</div>
-
-This repository hosts a variety of simulations, and designs. Each simulation/design is contained in its own directory. 
+> This repository hosts a variety of simulations, and designs. Each simulation/design is contained in its own directory. 
 
 ## Content
 
@@ -33,3 +28,8 @@ This repository hosts a variety of simulations, and designs. Each simulation/des
 13. `TSC - tina` [Electrical Flow and Voltage Project Thevenin](./13_TheveninTinaSimulations/) : This project contains designs that demonstrate how voltage and electrical flow work according to Thevenin's theorem.
 14. `matlab` [JFET Type N Design Project](./14_JFET-NDesign/): This project contains a design of a JFET (Junction Field-Effect Transistor) Type N, demonstrating its characteristics and behavior.
 15. `matlab` [Simple AC to DC Converter Design](./15_AC-DC_DesignSimulation/): This project contains a design for a simple Alternating Current (AC) to Direct Current (DC) converter.
+
+<div align="center">
+  <h3 style="color: #4CAF50;">Total Visitors</h3>
+  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
